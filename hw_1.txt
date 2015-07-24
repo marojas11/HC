@@ -1,7 +1,0 @@
-#hola, esta es la tarea 1
-
-mkdir Tarea1
-wget https://github.com/spsaaibi/ComputationalToolsData/raw/master/data/HYG/hyg.tar.gz
-gunzip hyg.tar.gz
-tar -xvf hyg.tar
-ls
